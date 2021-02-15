@@ -1,0 +1,16 @@
+
+# absolute directory path to store csv file
+STORE_DIRECTORY = /home/data/
+
+# Binance API key and secret
+BINANCE_API_KEY = 
+BINANCE_SECRET_KEY = 
+
+
+# Time window - UTC timestamp
+# This is the timewindow you wish to search from server
+START_TIMESTAMP = 1561903200000
+END_TIMESTAMP = 1593525599000
+
+# time zone, to generate local time
+TIME_ZONE = Canada/Pacific

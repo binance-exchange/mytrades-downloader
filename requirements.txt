@@ -1,0 +1,2 @@
+binance_connector_python==0.5.0
+pandas==1.2.2
